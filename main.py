@@ -1,6 +1,6 @@
 from data.vagas import lista_vagas
 from modules.visualizar_vagas import exibir_vagas
-#from modules.atualizar_vagas import reservar_vaga
+from modules.atualizar_vagas import reservar_vaga
 from modules.vagas_reservadas import listar_reservas
 
 def menu() :
